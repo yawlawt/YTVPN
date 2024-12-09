@@ -1,0 +1,42 @@
+{"categories":[
+{"name":"Recent", "image":"https://wallpaperaccess.com/full/5338988.jpg"
+},
+{"name":"Action", "image":"https://wallpaperaccess.com/full/5487669.jpg"
+},
+{"name":"Drama", "image":"https://wallpaperaccess.com/full/5487669.jpg"
+},
+{"name":"Horror", "image":"https://wallpaperaccess.com/full/5487669.jpg"
+},
+{"name":"Suspense", "image":"https://wallpaperaccess.com/full/5487669.jpg"
+}],
+
+"Recent":[
+{"title":"title1", "desc":"desc1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", "link":"video_link", "category":"Action"
+},
+{"title":"title2", "desc":"desc2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", "link":"video_link", "category":"Drama"
+}],
+
+"Action":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}],
+
+"Drama":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}],
+
+"Horror":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}],
+
+"Suspense":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}]
+}
